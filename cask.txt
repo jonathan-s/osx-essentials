@@ -1,0 +1,15 @@
+alfred
+amethyst
+anki
+audacity
+battery-guardian
+bettertouchtool
+carbon-copy-cloner
+handbrake
+iterm2
+karabiner
+postgres
+subl
+the-unarchiver
+utorrent
+vlc

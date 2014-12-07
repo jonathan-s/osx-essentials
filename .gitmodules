@@ -1,0 +1,3 @@
+[submodule "Sublime-Packages"]
+	path = Sublime-Packages
+	url = https://github.com/jonathan-s/Sublime-Packages
